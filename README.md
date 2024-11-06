@@ -2,5 +2,5 @@
 
 #一键部署
 
-bash <(curl -Ls https://raw.githubusercontent.com/kangcwei/centos7-/refs/heads/main/centons7Yh.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/kangcwei/centos7optimization/refs/heads/main/centons7Yh.sh)
 
