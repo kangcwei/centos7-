@@ -2,4 +2,5 @@
 
 #一键部署
 
-bash <(curl -Ls https://raw.githubusercontent.com/kangcwei/tcpyouhua/refs/heads/main/tcpyouh.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/kangcwei/centos7-/refs/heads/main/centons7Yh.sh)
+
